@@ -1,1 +1,3 @@
-# download_my_gh_public_projects
+# RUN
+
+`$ npm i && node ghimp.js`
