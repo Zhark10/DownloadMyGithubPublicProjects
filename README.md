@@ -1,3 +1,3 @@
 # RUN
 
-`$ npm i && node ghimp.js`
+`$ npm i && USERNAME={{YOUR_GH_USERNAME}} node ghimp.js`
